@@ -1,7 +1,7 @@
 # SchoolXML
 An example repository showing the XSL transformation of a clarion dictionary.
 
-[Based on the work by SeanH in a post on clarion hub.](https://clarionhub.com/t/print-out-dictionary-file/5990]
+[Based on the work by SeanH in a post on clarion hub.](https://clarionhub.com/t/print-out-dictionary-file/5990)
 
 This transformation uses [Bootstrap](https://getbootstrap.com/) V5
 
